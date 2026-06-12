@@ -10,7 +10,7 @@ const Swiperr = ({variant}) => {
       <Carousel.Item>
           {variant==="type1"? 
           <Type1Swiperr title="Articula – Your Gateway to Premium Articles" text="Discover high-quality articles written by experts and creators in various scientific and technical fields.
-                    Join a community of readers and writers and explore exclusive, knowledge-driven content." variant="home-page" img="\public\part1-1.png"/>
+                    Join a community of readers and writers and explore exclusive, knowledge-driven content." variant="home-page" img="\part1-1.png"/>
                     : variant==="type2" ?
                     <Type1Swiperr title="We share knowledge with the world" text="Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent fermentum quam mauris. Fusce tempor et augue a aliquet. Donec non ipsum non risus egestas tincidunt at vitae nulla." img="\about-p1.png" variant="about-page" num_about="2011-2025"/> 
                     : variant==="contact-page"?
@@ -21,7 +21,7 @@ const Swiperr = ({variant}) => {
       <Carousel.Item>
           {variant==="type1"? 
           <Type1Swiperr title="Articula – Your Gateway to Premium Articles" text="Discover high-quality articles written by experts and creators in various scientific and technical fields.
-                    Join a community of readers and writers and explore exclusive, knowledge-driven content." variant="home-page" img="\public\part1-1.png"/>
+                    Join a community of readers and writers and explore exclusive, knowledge-driven content." variant="home-page" img="\part1-1.png"/>
                     : variant==="type2" ?
                     <Type1Swiperr title="We share knowledge with the world" text="Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent fermentum quam mauris. Fusce tempor et augue a aliquet. Donec non ipsum non risus egestas tincidunt at vitae nulla." img="\about-p1.png" variant="about-page" num_about="2011-2025"/> 
                     : variant==="contact-page"?
@@ -32,7 +32,7 @@ const Swiperr = ({variant}) => {
       <Carousel.Item>
           {variant==="type1"? 
           <Type1Swiperr title="Articula – Your Gateway to Premium Articles" text="Discover high-quality articles written by experts and creators in various scientific and technical fields.
-                    Join a community of readers and writers and explore exclusive, knowledge-driven content." variant="home-page" img="\public\part1-1.png"/>
+                    Join a community of readers and writers and explore exclusive, knowledge-driven content." variant="home-page" img="\part1-1.png"/>
                     : variant==="type2" ?
                     <Type1Swiperr title="We share knowledge with the world" text="Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent fermentum quam mauris. Fusce tempor et augue a aliquet. Donec non ipsum non risus egestas tincidunt at vitae nulla." img="\about-p1.png" variant="about-page" num_about="2011-2025"/> 
                     : variant==="contact-page"?
