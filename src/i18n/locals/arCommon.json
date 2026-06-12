@@ -1,0 +1,14 @@
+{
+  "welcome": "مرحباً",
+  "register": "حساب جديد",
+  "login": "دخول",
+  "home_page": "الصفحة الرئيسية",
+  "aboutus": "من نحن",
+  "change_language": "تغيير اللغة",
+  "current_language": "اللغة الحالية: العربية",
+  "user_greeting": "مرحبا، {{name}}!",
+  "button": {
+    "submit": "إرسال",
+    "cancel": "إلغاء"
+  }
+}

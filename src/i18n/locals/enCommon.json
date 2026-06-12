@@ -1,0 +1,14 @@
+{
+  "welcome": "Welcome",
+  "register": "Register",
+  "login": "Login",
+  "home_page": "Home Page",
+  "aboutus": "About Us Page",
+  "change_language": "Change Language",
+  "current_language": "Current Language: English",
+  "user_greeting": "Hello, {{name}}!",
+  "button": {
+    "submit": "Submit",
+    "cancel": "Cancel"
+  }
+}
